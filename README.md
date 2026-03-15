@@ -64,7 +64,7 @@ This stage defines the locations of IO connections for the design prior to routi
 
 Routed Layout of the Processor
 ---
-Routed Layout of Single Cycle Processor
+Routed Layout of Single Cycle Processor.jpeg
 
 Final physical implementation stage showing placement and routing of the processor design using Cadence Innovus.
 
@@ -73,6 +73,7 @@ The layout illustrates multi-layer routing connecting datapath modules and memor
 
 
 Learning Outcomes
+---
 This project provided practical exposure to:
 ASIC physical design flow
 
