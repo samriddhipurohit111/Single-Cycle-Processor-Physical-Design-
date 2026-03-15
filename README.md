@@ -31,7 +31,7 @@ Design Snapshots
 Gate-Level Netlist Generation via TCL-Based RTL Synthesis
 ---
 
-Synthesis through Genus.jpeg
+![Gate Level Netlist](Synthesis through Genus.jpeg)
 
 
 Gate-level representation of the single-cycle processor generated after RTL synthesis using Cadence Genus. The synthesis process was automated using a custom TCL script that reads RTL modules, applies timing constraints, and generates the synthesized netlist used for physical implementation.
@@ -52,7 +52,7 @@ The processor architecture required 32-bit instruction and data memories, while 
 Pin Placement and Macro Integration
 ---
 
-Pin Placement and Macro Integration in Processor Layout.jpeg
+![](Pin Placement and Macro Integration in Processor Layout.jpeg)
 
 
 Pin placement stage showing the positioning of input and output pins along with the instantiated memory macros within the processor layout.
